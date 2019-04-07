@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ruu.moe</id>
+    <title>Ruublog</title>
+    <updated>2019-04-07T23:46:53.270Z</updated>
+    <generator>Saber.js</generator>
+    <author>
+        <name>Ruuji Hasegawa</name>
+        <email>RuujiHasegawa@gmail.com</email>
+        <uri>https://ruu.moe</uri>
+    </author>
+    <link rel="alternate" href="https://ruu.moe"/>
+    <link rel="self" href="https://ruu.moe/atom.xml"/>
+    <subtitle>This is a blog about my web development progress. Blog was generated with the help of saberjs.</subtitle>
+    <rights>All rights reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[My first post]]></title>
+        <id>/posts/first-post.html</id>
+        <link href="https://ruu.moe/posts/first-post.html">
+        </link>
+        <updated>2019-04-07T23:38:14.665Z</updated>
+        <summary type="html"><![CDATA[My first post on my blog, I'm still trying to figure out most of the settings for saberjs, but it seems to me that this is a very quick and easy way to make a blog such as
+this possible. Hopefully you can expect daily updates on my life and web development progress.
+]]></summary>
+        <content type="html"><![CDATA[<p>My first post on my blog, I'm still trying to figure out most of the settings for saberjs, but it seems to me that this is a very quick and easy way to make a blog such as
+this possible. Hopefully you can expect daily updates on my life and web development progress.</p>
+<ul class="task-list">
+<li class="task-list-item"><input type="checkbox" id="cbx_0" checked="true" disabled="true"><label for="cbx_0"> Create Blog</label></li>
+<li class="task-list-item"><input type="checkbox" id="cbx_1" disabled="true"><label for="cbx_1"> Fill it with content</label></li>
+<li class="task-list-item"><input type="checkbox" id="cbx_2" disabled="true"><label for="cbx_2"> Make progress</label></li>
+</ul>
+]]></content>
+        <published>2019-04-08T00:00:00.000Z</published>
+    </entry>
+</feed>
