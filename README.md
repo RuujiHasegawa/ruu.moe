@@ -1,2 +1,0 @@
-# ruu.moe
-My website
